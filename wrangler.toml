@@ -1,4 +1,4 @@
-name = "id.haijetcop.my.id"
+name = "cf-haijetcop"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 # node_compat = true
