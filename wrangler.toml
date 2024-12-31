@@ -7,6 +7,9 @@ workers_dev = true
 [observability.logs]
 enabled = true
 
+[unsafe.metadata.observability]
+enabled = true
+
 [vars]
 # PROXYIP = "211.230.110.231:50008" //domain = haijetcop.my.id
 UUID = "1c5f30c2-c760-11ef-9cd2-0242ac120002"
